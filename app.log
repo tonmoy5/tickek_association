@@ -13,3 +13,11 @@
 2024-07-31T11:36:19.318Z [info] : Redirected user to HubSpot OAuth URL for installation
 2024-07-31T11:36:27.802Z [info] : Received access token and refresh token for session: JOYvoaYRQnLYrogMu_q7pWlRlTpX1f4B
 2024-07-31T11:36:27.802Z [info] : OAuth callback successful, redirecting to home
+2024-07-31T11:47:33.412Z [info] : Displayed home page with account info and access token
+2024-07-31T11:47:35.672Z [info] : Displayed home page with account info and access token
+2024-07-31T11:47:36.625Z [info] : Displayed home page with account info and access token
+2024-07-31T11:47:46.812Z [info] : Displayed home page with install link
+2024-07-31T11:47:49.241Z [info] : Redirected user to HubSpot OAuth URL for installation
+2024-07-31T11:54:17.042Z [info] : Server is running on port 3000
+2024-07-31T11:54:24.031Z [info] : Displayed home page with install link
+2024-07-31T11:54:27.094Z [info] : Redirected user to HubSpot OAuth URL for installation
