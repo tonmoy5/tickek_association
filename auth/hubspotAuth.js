@@ -3,7 +3,7 @@ const qs = require('qs');
 const request = require('request-promise-native');
 const logger = require('../utils/logger'); // Add logger
 
-const BASE_URL = "http://localhost:3000"
+const BASE_URL = "https://tickek-association-systemology.vercel.app"
 // const BASE_URL = "https://app.dataformatter.my.id"
 
 const getTokenHeaders = {
